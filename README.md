@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Htun Thiha (Steve)
 
-🚀 **Aspiring Backend & DevOps Engineer**  
-Currently pursuing a **Diploma in Information Technology** at Singapore Polytechnic (Year 2), I’m passionate about building **scalable backend systems** and streamlining **DevOps workflows**.  
-I’m constantly learning and experimenting with **Java, Spring Boot, containerization, automation, and cloud deployments** — gearing up for my first industry internship next year.
+🚀 **Aspiring Backend & DevOps Engineer**
+Currently pursuing **Diploma in Information Technology** at Singapore Polytechnic (Year 2), I’m passionate about building **scalable backend systems** and streamlining **DevOps workflows**.  
+I’m constantly learning and experimenting with **Java, Spring Boot, containerization, and cloud deployments** — preparing for my first industry internship next year.
 
 ---
 
@@ -11,7 +11,7 @@ I’m constantly learning and experimenting with **Java, Spring Boot, containeri
 - **Frontend (for integration):** React, Flutter  
 - **DevOps & Automation:** GitHub Actions, Docker, Linux (Ubuntu)  
 - **Cloud Basics:** AWS (VPC, EC2, S3, CloudFront, RDS)  
-- **Databases:** MySQL, PostgreSQL, SQLite, Prisma, JPA  
+- **Databases:** MySQL, PostgreSQL, Prisma, JPA  
 
 > ⚡ Currently exploring ways to connect backend services with automated CI/CD pipelines and cloud infrastructure.
 
@@ -27,7 +27,8 @@ I’m constantly learning and experimenting with **Java, Spring Boot, containeri
 
 ### 📚 Projects & Experiments
 *(I’m building and sharing as I learn!)*  
-- 🔹 **API playgrounds** with Spring Boot & PostgreSQL  
+- 🔹 **API playgrounds** with Spring Boot & PostgreSQL
+- 🔹 **learn_\* repositories** for tracking my learning progress in languages and frameworks.
 - 🔹 **React + Spring Boot** integration demos 
 
 ---

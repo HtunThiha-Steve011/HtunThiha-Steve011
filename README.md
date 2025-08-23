@@ -10,8 +10,8 @@ I’m constantly learning and experimenting with **Java, Spring Boot, containeri
 - **Backend Development:** Java, Spring Boot, RESTful API design, design patterns  
 - **Frontend (for integration):** React, Flutter  
 - **DevOps & Automation:** GitHub Actions, Docker, Linux (Ubuntu)  
-- **Cloud Basics:** AWS (VPC, EC2, S3, CloudFront, RDS)  
-- **Databases:** MySQL, PostgreSQL, Prisma, JPA  
+- **AWS Cloud Architecture Basics:** AWS (VPC, EC2, S3, CloudFront, RDS, ELB)  
+- **Databases & ORM:** MySQL, PostgreSQL, Prisma, JPA  
 
 > ⚡ Currently exploring ways to connect backend services with automated CI/CD pipelines and cloud infrastructure.
 

@@ -44,7 +44,7 @@ By the time I start my internship, I want to be comfortable with:
 
 ### 📫 Let’s Connect
 - **GitHub:** [@HtunThiha-Steve011](https://github.com/HtunThiha-Steve011)  
-- **LinkedIn:** *linkedin.com/in/htun-thiha-steve/*  
+- **LinkedIn:** *[@Htun Thiha](https://www.linkedin.com/in/htun-thiha-steve/)*  
 - **Email:** *htunthiha.dev01@gmail.com*  
 
 ---
